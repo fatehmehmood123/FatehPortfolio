@@ -4,6 +4,7 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import LogoTitle from '../../assets/images/logo-s.png'
 // import Logo from './Logo'
+import icon from '../../assets/images/android-chrome-512x512.png'
 import './index.scss'
 
 const Home = () => {
@@ -65,6 +66,7 @@ const Home = () => {
           </Link>
         </div>
         {/* <Logo /> */}
+        <img className="icon" src={icon}/>
       </div>
 
       <Loader type="pacman" />

@@ -80,7 +80,13 @@
     }
   }
   
-  
+  .icon{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    height: 450px;
+    width: 450px;
+  }
   
   @media screen and (max-width: 1200px) {
     .tags,
