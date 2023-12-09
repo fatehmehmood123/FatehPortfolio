@@ -26,7 +26,7 @@ return(
         </nav>
         <ul>
             <li>
-                <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/fateh-mehmood-219525163/'>
+                <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/fatehmehmood/'>
                     <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e'></FontAwesomeIcon>
                 </a>
             </li>
